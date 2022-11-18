@@ -15,13 +15,17 @@ Our application is a multi-facted game application that is desingned specificall
 | :------------ | :--------------------------    | :----------------------------------------------- |       
 | GET           | /                              | Home Page                                        |
 | GET           | /home                          | Home Page index page/nav                         |
-| POST          | /user/login                         | User login page                                  |
+| POST          | /user/login                    | User login page                                  |
 | GET           | /user/new                      | Form page for creating a new user profile        | 
-| GET           | /user/:id                      | Details about a particular place                 |
+| GET           | /user/:id                      | Show details about a particular user             |
 | PUT           | /user/:id                      | Update a user profile                            |
 | GET           | /user/:id/edit                 | Form page for editing an existing user's info.   |
 | DELETE        | /user/:id                      | Delete a particular user                         |
 | GET           | *                              | 404 page (matches any route not defined above)   |
+| GET           | /aboutus                       | Link to the About Us page                        |
+| GET           | /contact                       | Link to the Contact Us page                      |
+| GET           | /projects                      | Link to our Projects page                        |
+
 
 
 ## More About this website application...
