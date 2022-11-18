@@ -4,15 +4,16 @@ Our final project is a collaboration between Taylor Forbes, Thyra Barreto, Aaron
 
 ## Our Inspiration
 
-Our final project is a collaboration between Taylor Forbes, Thyra Barreto, Aaron Boone, Ashley Beal and Magdy Gamel.
+Our inspiration for this project came from our collective love of web/computer games and gaming.  This is the best of our favorite retro and classic games.  We hope you enjoy our app!!
+
 
 ## More About Our App and How to Navigate
 
-Our application is a multi-facted game application that is desingned specifically to cater to everyone's nostalgic game memories.  Everyone has that classic/retro gam,e that they remember fondly and always love to re-visit.  Right on cue, introduce our web application--the place to go to re-visit your favorite childhood games...all in one place!!  Simply pick your game of choice from our main page and play to your hearts content.
+Our application is a multi-facted game application that is designed specifically to cater to everyone's nostalgic game memories.  Everyone has that classic/retro game that they remember fondly and always love to re-visit.  Right on cue, introduce our web application--the place to go to re-visit your favorite childhood games...all in one place!!  Simply pick your game of choice from our main page and play to your hearts content.
 ## Our Page Routes
 
 | Method        | Path                           | Purpose                                          |
-| :------------ | :--------------------------    | :----------------------------------------------- |       
+| :------------ | :--------------------------    | :----------------------------------------------- |        
 | GET           | /                              | Home Page                                        |
 | GET           | /home                          | Home Page index page/nav                         |
 | POST          | /user/login                    | User login page                                  |
