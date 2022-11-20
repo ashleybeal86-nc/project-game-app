@@ -16,6 +16,7 @@ return (
       <SignUp />
       <ContactUs />
       <AboutUs />
+      <Games />
     </div>
   );
 }
