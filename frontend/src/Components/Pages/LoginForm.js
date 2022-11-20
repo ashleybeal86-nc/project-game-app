@@ -7,7 +7,7 @@ function LoginForm() {
             <link rel="stylesheet" href="style.css" />
         </head>
         <body>
-            <div className='login-card'>
+            <div className='login'>
                 <h2>Login</h2>
                 <h3>Enter your credentials</h3>
                 <form className='login-form'>

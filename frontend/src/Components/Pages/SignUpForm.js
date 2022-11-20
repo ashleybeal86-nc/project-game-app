@@ -7,7 +7,7 @@ function SignUpForm() {
     </head>
     <body>
         <div className='background'></div>
-        <div className='card'>
+        <div className='signup'>
             <img className='logo'></img>
             <h2>Create Account</h2>
             <form className='form'>
