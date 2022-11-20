@@ -1,6 +1,7 @@
 import React from 'react';
+import ForgotPassword from './ForgotPassword';
 
-function Login() {
+function LoginForm() {
     <html>
         <head>
             <link rel="stylesheet" href="style.css" />
@@ -12,7 +13,7 @@ function Login() {
                 <form className='login-form'>
                     <input type="text" placeholder= "Username"></input>
                     <input type="text" placeholder='Password'></input>
-                    <a href='ForgotPassword.js'>Forgot your Password? </a>
+                    <a href='.ForgotPassword.js'>Forgot your Password? </a>
                     <button>LOGIN</button>
                 </form>
             </div>

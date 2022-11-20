@@ -1,4 +1,4 @@
-const react = require('react')
+const React = require('react')
 
 function SignUpForm() {
 <html>
@@ -26,4 +26,4 @@ function SignUpForm() {
 </html>
 }
 
-module.exports = SignUpForm
+export default SignUpForm;

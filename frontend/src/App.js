@@ -1,9 +1,10 @@
 import React from 'react';
 import './App.css';
-import Home from './Components/Pages/HomePage';
-import About from './Components/Pages/AboutUs';
+import HomePage from './Components/Pages/HomePage';
+import AboutUs from './Components/Pages/AboutUs';
 import ContactUs from './Components/Pages/ContactUs';
-import Login from './Components/Pages/LoginForm';
+import LoginForm from './Components/Pages/LoginForm';
+import SignUpForm from './Components/Pages/SignUpForm';
 
 
 function App(){
@@ -15,19 +16,22 @@ return (
       <div className="navBar">
         <ul>
           <li>
-            <a href={<Home />}>Home</a>
+            <a href={<HomePage />}>Home</a>
           </li>
           <li>
-            <a href={<About />}>About Us</a>
+            <a href={<AboutUs />}>About Us</a>
           </li>
           <li>
             <a href={<ContactUs />}>Contact Us</a>
           </li>
           <li>
-            <a href={<Login />}>Login</a>
+            <a href={<LoginForm />}>Login</a>
           </li>
           <li>
-            <a href={<Games/>}>Our Games</a>
+            <a href={<SignUpForm />}>Sign Up</a>
+          </li>
+          <li>
+            <a href={<Games />}>Our Games</a>
           </li>
         </ul>
       </div>
