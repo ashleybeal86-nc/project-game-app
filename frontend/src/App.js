@@ -4,7 +4,7 @@ import Home from './Components/Pages/HomePage';
 import About from './Components/Pages/AboutUs';
 import ContactUs from './Components/Pages/ContactUs';
 import Login from './Components/Pages/LoginForm';
-import ForgotPassword from './Components/Pages/ForgotPassword';
+
 
 function App(){
 return (
