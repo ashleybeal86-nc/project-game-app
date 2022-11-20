@@ -1,0 +1,11 @@
+.game {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+table td {
+    border: 1px solid green;
+    width: 200px;
+    height: 200px;
+}

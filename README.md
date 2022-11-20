@@ -1,7 +1,6 @@
 # Final Project--Game App
 
-Our final project is a collaboration between Taylor Forbes, Thyra Barreto, Aaron Boone, Ashley Beal and Magdy Gamel.
-
+Our final project is a collaboration between Taylor Forbes, Thyra Barreto, Aaron Boone, and Ashley Beal.
 ## Our Inspiration
 
 Our inspiration for this project came from our collective love of web/computer games and gaming.  This is the best of our favorite retro and classic games.  We hope you enjoy our app!!
