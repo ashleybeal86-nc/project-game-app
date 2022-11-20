@@ -1,4 +1,4 @@
-function ForgetPassword () {
+function ForgotPassword() {
     <html>
         <head>
             <link rel="stylesheet" href="style.css" />
@@ -17,4 +17,4 @@ function ForgetPassword () {
     </html>
 }
 
-export default ForgetPassword
+export default ForgotPassword;

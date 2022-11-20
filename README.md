@@ -25,7 +25,7 @@ Our application is a multi-facted game application that is designed specifically
 | GET           | *                              | 404 page (matches any route not defined above)   |
 | GET           | /aboutus                       | Link to the About Us page                        |
 | GET           | /contact                       | Link to the Contact Us page                      |
-| GET           | /projects                      | Link to our Projects page                        |
+| GET           | /games                         | Link to our Games page                           |
 
 
 

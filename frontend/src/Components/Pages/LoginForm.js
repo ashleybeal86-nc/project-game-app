@@ -1,6 +1,6 @@
-import { useEffect, useState } from "react"
+import React from 'react';
 
-function LoginForm () {
+function Login() {
     <html>
         <head>
             <link rel="stylesheet" href="style.css" />
@@ -12,7 +12,7 @@ function LoginForm () {
                 <form className='login-form'>
                     <input type="text" placeholder= "Username"></input>
                     <input type="text" placeholder='Password'></input>
-                    <a href='ForgetPassword-form.js'>Forgot your Password? </a>
+                    <a href='ForgotPassword.js'>Forgot your Password? </a>
                     <button>LOGIN</button>
                 </form>
             </div>
@@ -20,4 +20,4 @@ function LoginForm () {
     </html>
 }
 
-module.exports = LoginForm
+export default LoginForm;
