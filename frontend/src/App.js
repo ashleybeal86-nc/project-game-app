@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Link, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Link, Route } from 'react-router-dom'
 import './App.css';
 import HomePage from './Components/Pages/HomePage';
 import AboutUs from './Components/Pages/AboutUs';
@@ -47,9 +47,7 @@ return (
         <Route path="/signup" component={SignUpForm} />
         <Route path="/games" render={() => <Games games={games}/>}  />
       </div>
-
     </Router>
-
   </div>
 );
 }
